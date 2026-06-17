@@ -1,1 +1,32 @@
-
+[
+  {
+    "id": "topo_peru_001",
+    "country": "PER",
+    "name": "Machu Picchu",
+    "type": "UNESCO",
+    "lat": -13.1631,
+    "lng": -72.545,
+    "difficulty": "expert",
+    "hints": [
+      "Archeologische site op ongeveer 2430 meter hoogte",
+      "UNESCO Werelderfgoed sinds 1983",
+      "Verbonden aan de Inca-beschaving",
+      "Machu Picchu"
+    ]
+  },
+  {
+    "id": "topo_tur_001",
+    "country": "TUR",
+    "name": "Göbekli Tepe",
+    "type": "UNESCO",
+    "lat": 37.2231,
+    "lng": 38.9226,
+    "difficulty": "expert",
+    "hints": [
+      "Neolithisch complex uit het Pre-Pottery Neolithic tijdperk",
+      "Gedateerd rond 9500 v.Chr.",
+      "Wordt gezien als een van de oudste tempelcomplexen ter wereld",
+      "Göbekli Tepe"
+    ]
+  }
+]
