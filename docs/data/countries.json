@@ -1,1 +1,48 @@
-[]
+
+[
+  {
+    "id": "ESP",
+    "name": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "economy": {
+      "gdp": 1620000000000,
+      "population": 48350000,
+      "agriculture_pct": 3,
+      "industry_pct": 21,
+      "services_pct": 76
+    }
+  },
+  {
+    "id": "PER",
+    "name": "Peru",
+    "capital": "Lima",
+    "continent": "South America",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "economy": {
+      "gdp": 268000000000,
+      "population": 34000000,
+      "agriculture_pct": 7,
+      "industry_pct": 35,
+      "services_pct": 58
+    }
+  },
+  {
+    "id": "DEU",
+    "name": "Germany",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "lat": 52.52,
+    "lng": 13.405,
+    "economy": {
+      "gdp": 4450000000000,
+      "population": 84500000,
+      "agriculture_pct": 1,
+      "industry_pct": 30,
+      "services_pct": 69
+    }
+  }
+]
