@@ -1,1 +1,30 @@
-
+[
+  {
+    "id": "hist_deu_001",
+    "country": "DEU",
+    "title": "Frankfurter Parlement",
+    "year": 1848,
+    "type": "event",
+    "difficulty": "expert",
+    "hints": [
+      "Poging tot constitutionele eenwording",
+      "Bijeenkomst in de Paulskirche",
+      "Frankfurt, 1848",
+      "Frankfurter Parlement"
+    ]
+  },
+  {
+    "id": "hist_fra_001",
+    "country": "FRA",
+    "title": "Napoleon Bonaparte",
+    "year": 1804,
+    "type": "person",
+    "difficulty": "medium",
+    "hints": [
+      "Artillerieofficier afkomstig van Corsica",
+      "Werd keizer in 1804",
+      "Verloor uiteindelijk bij Waterloo",
+      "Napoleon Bonaparte"
+    ]
+  }
+]
