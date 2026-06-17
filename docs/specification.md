@@ -1,0 +1,18 @@
+# EconGuess Specificatie
+
+## Categorieën
+
+- Economie
+- Topografie
+- Geschiedenis
+
+## Doel
+
+Dagelijks een land raden aan de hand van hints.
+
+## Features
+
+- Afstand
+- Windrichting
+- Score
+- Streaks
